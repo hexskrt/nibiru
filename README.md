@@ -26,7 +26,7 @@ Explorer:
 Use this script for a quick installation:
  
 ```
-wget -O nibiru.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/nibiru/nibiru.sh && chmod +x nibiru.sh && ./nibiru.sh
+wget -O nibiru.sh https://raw.githubusercontent.com/hexskrt/nibiru/main/nibiru.sh && chmod +x nibiru.sh && ./nibiru.sh
 ```
 
 ## Post installation
